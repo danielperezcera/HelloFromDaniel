@@ -7,6 +7,7 @@ public class Main {
 
         System.out.format("Hello, my name is Daniel");
 	    System.out.format("Hello Daniel, my name is Rufino");
+	    System.out.println("Hello Daniel, my name is Allan");
 	    //Hola de nuevo!
     }
 }
